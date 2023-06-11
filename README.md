@@ -19,3 +19,9 @@ Kombiniert die Konzepte der Spracherkennung und der IoT-Geräteverwaltung. Hierb
 - Integration und Backend: Ein Backend-System, das die Spracherkennung, NLP-Verarbeitung und IoT-Geräteverwaltung integriert. Dieses System übernimmt die Verarbeitung der Benutzereingabe, generiert die entsprechenden IoT-Befehle und steuert die Kommunikation mit den Geräten. Die Integration kann in einer serverbasierten Umgebung erfolgen, entweder lokal oder in der Cloud.
 
 - Hardware: Die Hardware besteht aus den IoT-Geräten, die gesteuert werden sollen. Je nach Art der Geräte können dies Sensoren, Aktoren, Haushaltsgeräte, Beleuchtungssysteme oder andere intelligente Geräte sein.
+
+
+## To Do´s 
+- Defining Project in-scope and out-scopes
+- Gathering of needed requirements and develope a implementation plan
+- Assigning workload
