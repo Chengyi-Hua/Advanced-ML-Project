@@ -2,6 +2,7 @@
 
 ## Deadlines
 13.06.2023 Vorstellung des Themas und ggf- möglichen Vorgehensweise und Techniken <br>
+27.6.: Präsentation des Zwischenstands <br>
 23.07.2023 Abgabe Dokumentation etc. <br>
 26.07.2023 Präsentation
 
