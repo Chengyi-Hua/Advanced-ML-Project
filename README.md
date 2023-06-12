@@ -19,8 +19,32 @@ Kombiniert die Konzepte der Spracherkennung und der IoT-Geräteverwaltung. Hierb
 
 - Integration und Backend: Ein Backend-System, das die Spracherkennung, NLP-Verarbeitung und IoT-Geräteverwaltung integriert. Dieses System übernimmt die Verarbeitung der Benutzereingabe, generiert die entsprechenden IoT-Befehle und steuert die Kommunikation mit den Geräten. Die Integration kann in einer serverbasierten Umgebung erfolgen, entweder lokal oder in der Cloud.
 
-- Hardware: Die Hardware besteht aus den IoT-Geräten, die gesteuert werden sollen. Je nach Art der Geräte können dies Sensoren, Aktoren, Haushaltsgeräte, Beleuchtungssysteme oder andere intelligente Geräte sein.
+- Hardware: Die Hardware besteht aus den IoT-Geräten, die gesteuert werden sollen. Der Raspberry Pi 3, äußerst vielseitiger und leistungsfähiger Einplatinencomputer, der sich ideal für die Integration und Steuerung von IoT-Geräten eignet, wird für die Kommunikation zu IoT Geräten verwendet. Mit seinen zahlreichen GPIO-Pins, drahtlosen Konnektivitätsoptionen und der Fähigkeit, verschiedene Betriebssysteme auszuführen, bietet der Raspberry Pi 3 eine solide Grundlage für die Umsetzung eines IoT-Projekts.
 
+
+## Use Case
+Max ist ein leidenschaftlicher Bastler und Technikliebhaber, der sein Zuhause in ein intelligentes Smart Home verwandeln möchte. Er entscheidet sich für die Implementierung einer sprachgesteuerten IoT-Geräteverwaltung, um seine Lampen und einen Temperatursensor bequem per Sprachbefehl zu steuern. Als Teil seines Projekts baut Max ein Modell aus Pappe, um das System zu visualisieren und zu testen.
+
+### In-scope
+- Die Verbindung und Steuerung von IoT-Geräten wird mithilfe eines Raspberry Pi 3 erreicht
+- Das System nutzt eine Spracherkennungstechnologie, um die Spracheingabe von Max zu erfassen und in Text umzuwandeln. 
+- Max gibt Sprachbefehle wie "Schalte das Wohnzimmerlicht ein" oder "Was ist die aktuelle Raumtemperatur?" ab.
+- Die NLP-Komponente analysiert den erfassten Text und erkennt die beabsichtigte Aktion sowie die betroffenen Geräte.
+- Basierend auf der Interpretation der Benutzereingabe generiert das System die entsprechenden Steuerbefehle für die IoT-Geräte in Max' Smart Home-Modell.
+- Die Lampen im Modellhaus werden ein- oder ausgeschaltet, und der Temperatursensor zeigt die aktuelle Raumtemperatur an.
+
+### Kann
+- Das System kann auch Feedback geben, indem es zum Beispiel die Sprachausgabe verwendet, um Max die aktuelle Temperatur mitzuteilen.
+
+### Out-scope
+- Keine Speicherung von Daten in Datenbanken
+
+Motivation des Projektes:
+- Intuitive Steuerung: Max kann seine IoT-Geräte in seinem Smart Home-Modell einfach per Sprachbefehl steuern, indem er den Namen der Geräte und die gewünschte Aktion nennt.
+- Visualisierung und Fehlerbehebung: Das Modell ermöglicht es Max, den aktuellen Status der Lampen und den Temperatursensor auf einen Blick zu überprüfen und Fehler im System zu erkennen.
+
+Interaktive Erfahrung: Das Modellhaus aus Pappe bietet eine interaktive und greifbare Darstellung des Smart Home-Systems, das Max entwickelt hat.
+Prototyping und Testing: Durch den Aufbau des Modells aus Pappe kann Max das System vor der tatsächlichen Implementierung im realen Zuhause testen und mögliche Probleme frühzeitig identifizieren.
 
 ## To Do´s 
 - Defining Project in-scope and out-scopes
