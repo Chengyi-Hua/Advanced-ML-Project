@@ -2,8 +2,13 @@
 
 ## Deadlines
 13.06.2023 Vorstellung des Themas und ggf- möglichen Vorgehensweise und Techniken <br>
-27.6.: Präsentation des Zwischenstands <br>
+[wepik-sprachgesteuerte-zukunft-wie-wir-iot-gerate-mit-unserer-stimme-kontrollieren-20230612180548DyTB.pdf](https://github.com/Chengyi-Hua/Advanced-ML-Project/files/11731847/wepik-sprachgesteuerte-zukunft-wie-wir-iot-gerate-mit-unserer-stimme-kontrollieren-20230612180548DyTB.pdf)
+<br>
+<br>
+27.6.: Präsentation des Zwischenstands:<br>
+<br>
 23.07.2023 Abgabe Dokumentation etc. <br>
+<br>
 26.07.2023 Präsentation
 
 <img width="574" alt="image" src="https://github.com/Chengyi-Hua/Advanced-ML-Project/assets/96745479/97a7f7d6-13d9-4c5e-98d5-651d3b6ba9e8">
